@@ -1,6 +1,3 @@
-Certainly! Here's the updated README with the revised project details:
-
----
 
 # Hello, I'm Sriharini 👋
 
