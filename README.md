@@ -24,7 +24,7 @@ Here are some of the projects I’ve been working on:
 
 I am always open to collaborating on exciting projects, discussing new ideas, and learning from others in the field. Feel free to connect with me through the following platform:
  
-- [Email](sriharinisaraswathi246@gmail.com)
+Email - (sriharinisaraswathi246@gmail.com)
 
 Thank you for visiting my profile! I look forward to connecting with you and exploring opportunities to contribute to the field of AI and Data Science.
 
