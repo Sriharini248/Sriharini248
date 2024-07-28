@@ -6,7 +6,7 @@ Certainly! Here's the updated README with the revised project details:
 
 Welcome to my GitHub profile! I’m currently pursuing my Bachelor’s degree in Artificial Intelligence and Data Science at SRM Valliammai Engineering College. As an enthusiastic learner with a passion for cutting-edge technology, I am deeply interested in the fields of AI and Data Science.
 
-## About Me
+## About Me 
 
 I have a strong curiosity for exploring new technologies and am dedicated to advancing my skills in Machine Learning and Data Analytics. My academic journey and personal projects reflect my commitment to understanding and innovating within these dynamic fields.
 
@@ -26,9 +26,8 @@ Here are some of the projects I’ve been working on:
 ## Connect with Me
 
 I am always open to collaborating on exciting projects, discussing new ideas, and learning from others in the field. Feel free to connect with me through the following platform:
-
-- [LinkedIn](https://www.linkedin.com/in/sriharini) 
-- [Email](mailto:sriharini@example.com)
+ 
+- [Email](sriharinisaraswathi246@gmail.com)
 
 Thank you for visiting my profile! I look forward to connecting with you and exploring opportunities to contribute to the field of AI and Data Science.
 
